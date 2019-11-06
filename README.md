@@ -2,7 +2,7 @@
 # Good to read
 
 ### Javascript
-* [Function declarations vs Function expressions] - function-declarations-vs-function-expressions
+* [Function declarations vs Function expressions] - Function declarations vs Function expressions
 ### Javascript
 | Link | Description |
 | ------ | ------ |
