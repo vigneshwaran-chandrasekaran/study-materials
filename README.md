@@ -11,6 +11,7 @@
 | ------ | ------ |
 |  [React cheatsheet Github][ReCh2] | React cheatsheet Github with Redux  |
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
+|  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -18,3 +19,4 @@
    [PlDb]: <https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/>
    [ReCh1]: <https://jsmanifest.com/react-cheatsheet/>
    [ReCh2]: <https://github.com/vincsb/react-cheat-sheet#table-of-contents>
+   [ReStG1]: <https://github.com/airbnb/javascript/tree/master/react>
