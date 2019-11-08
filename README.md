@@ -5,6 +5,13 @@
 | Link | Description |
 | ------ | ------ |
 |  [Function declarations vs Function expressions][PlDb] | Function declarations vs Function expressions  |
+|  [Mute and Unmute array in javascript][JsGooLink1] | mute and unmute array in javascript  |
+
+
+### React
+| Link | Description |
+| ------ | ------ |
+|  [React Array modification][ReRe1] | React array proper way to modification  |
 
 ### React Cheatsheet
 | Link | Description |
@@ -20,3 +27,5 @@
    [ReCh1]: <https://jsmanifest.com/react-cheatsheet/>
    [ReCh2]: <https://github.com/vincsb/react-cheat-sheet#table-of-contents>
    [ReStG1]: <https://github.com/airbnb/javascript/tree/master/react>
+   [ReRe1]: <https://www.robinwieruch.de/react-state-array-add-update-remove>
+   [JsGooLink1]: <https://doesitmutate.xyz/>
