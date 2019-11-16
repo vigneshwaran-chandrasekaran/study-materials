@@ -20,6 +20,11 @@
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
 
+
+### Array
+ - Array length is not the count of values in the array, but the greatest numeric index plus one.
+
+
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Function declarations vs Function expressions]: <https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/>
