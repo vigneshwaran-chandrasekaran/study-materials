@@ -6,7 +6,7 @@
 | ------ | ------ |
 |  [Function declarations vs Function expressions][PlDb] | Function declarations vs Function expressions  |
 |  [Mute and Unmute array in javascript][JsGooLink1] | mute and unmute array in javascript  |
-
+|  [javascript.info][jsinfo] | every js concept in detail  |
 
 ### React
 | Link | Description |
@@ -29,3 +29,5 @@
    [ReStG1]: <https://github.com/airbnb/javascript/tree/master/react>
    [ReRe1]: <https://www.robinwieruch.de/react-state-array-add-update-remove>
    [JsGooLink1]: <https://doesitmutate.xyz/>
+   [jsinfo]: <https://javascript.info/>
+   
