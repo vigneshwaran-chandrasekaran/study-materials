@@ -8,6 +8,11 @@
 |  [Mute and Unmute array in javascript][JsGooLink1] | mute and unmute array in javascript  |
 |  [javascript.info][jsinfo] | every js concept in detail  |
 
+### Javascript interview questions
+| Link | Description |
+| ------ | ------ |
+|  [javascript questions][jsint1] | javascript questions  |
+
 ### React
 | Link | Description |
 | ------ | ------ |
@@ -35,4 +40,8 @@
    [ReRe1]: <https://www.robinwieruch.de/react-state-array-add-update-remove>
    [JsGooLink1]: <https://doesitmutate.xyz/>
    [jsinfo]: <https://javascript.info/>
+   
+   [jsint1]: <https://github.com/lydiahallie/javascript-questions>
+   
+   
    
