@@ -23,6 +23,8 @@
 |  [javascript questions][jsint9] | javascript questions  |
 |  [javascript questions][jsint10] | javascript questions  |
 |  [javascript questions][jsint11] | javascript questions  |
+|  [javascript questions][jsint12] | javascript questions  |
+|  [javascript questions][jsint13] | javascript questions  |
 
 
 ### React
@@ -60,6 +62,7 @@
    [jsint0]: <https://github.com/topics/javascript-interview-questions>
    [jsint1]: <https://github.com/lydiahallie/javascript-questions>
    [jsint2]: <https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions>
+   [jsint2a]: <https://github.com/amangalvedhekar/123-Essential-JavaScript-Interview-Question>
    [jsint3]: <https://github.com/sudheerj/javascript-interview-questions>
    [jsint4]: <https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md>
    [jsint5]: <https://github.com/MaximAbramchuck/awesome-interview-questions#javascript>
@@ -69,6 +72,12 @@
    [jsint9]: <https://github.com/learning-zone/javascript-interview-questions>
    [jsint10]: <https://github.com/hgopi/js-coding-samples>
    [jsint11]: <https://github.com/wiziple/technical-interview-questions-in-javascript>
+   
+   [jsint12]: <https://github.com/katopz/js-interview>
+   [jsint13]: <https://github.com/hopeogbons/TESTDOME>
+   
+   
+   
 
    
    
