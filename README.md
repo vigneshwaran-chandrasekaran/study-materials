@@ -14,6 +14,7 @@
 |  [javascript questions][jsint0] | javascript questions  |
 |  [javascript questions][jsint1] | javascript questions  |
 |  [javascript questions][jsint2] | javascript questions  |
+|  [javascript questions][jsint2a] | javascript questions  |
 |  [javascript questions][jsint3] | javascript questions  |
 |  [javascript questions][jsint4] | javascript questions  |
 |  [javascript questions][jsint5] | javascript questions  |
