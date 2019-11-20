@@ -12,6 +12,17 @@
 | Link | Description |
 | ------ | ------ |
 |  [javascript questions][jsint1] | javascript questions  |
+|  [javascript questions][jsint2] | javascript questions  |
+|  [javascript questions][jsint3] | javascript questions  |
+|  [javascript questions][jsint4] | javascript questions  |
+|  [javascript questions][jsint5] | javascript questions  |
+|  [javascript questions][jsint6] | javascript questions  |
+|  [javascript questions][jsint7] | javascript questions  |
+|  [javascript questions][jsint8] | javascript questions  |
+|  [javascript questions][jsint9] | javascript questions  |
+|  [javascript questions][jsint10] | javascript questions  |
+|  [javascript questions][jsint11] | javascript questions  |
+
 
 ### React
 | Link | Description |
@@ -41,7 +52,23 @@
    [JsGooLink1]: <https://doesitmutate.xyz/>
    [jsinfo]: <https://javascript.info/>
    
+   
+   [jsint0]: <https://github.com/topics/javascript-interview-questions>
    [jsint1]: <https://github.com/lydiahallie/javascript-questions>
+   [jsint2]: <https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions>
+   [jsint3]: <https://github.com/sudheerj/javascript-interview-questions>
+   [jsint4]: <https://github.com/yangshun/front-end-interview-handbook/blob/master/questions/javascript-questions.md>
+   [jsint5]: <https://github.com/MaximAbramchuck/awesome-interview-questions#javascript>
+   [jsint6]: <https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews>
+   [jsint7]: <https://github.com/vvscode/js--interview-questions>
+   [jsint8]: <https://github.com/yeungon/In-JavaScript-we-trust>
+   [jsint9]: <https://github.com/learning-zone/javascript-interview-questions>
+   [jsint10]: <https://github.com/hgopi/js-coding-samples>
+   [jsint11]: <https://github.com/wiziple/technical-interview-questions-in-javascript>
+
+   
+   
+   
    
    
    
