@@ -37,7 +37,10 @@
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
 
-
+### General Js concepts
+ - var x; is a declaration, var x = 5; is a definition. 
+ Declaration allocates memory and the definition assigns a value to this allocated memory.
+ 
 ### Array
  - Array length is not the count of values in the array, but the greatest numeric index plus one.
 
