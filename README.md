@@ -43,6 +43,11 @@
 ### General Js concepts
  - var x; is a declaration, var x = 5; is a definition. 
  Declaration allocates memory and the definition assigns a value to this allocated memory.
+ - The typeof operator in JavaScript returns "function" for functions.
+ e.g. function sample() {} 
+ typeof sample will be 'function'
+
+
  
 ### Array
  - Array length is not the count of values in the array, but the greatest numeric index plus one.
