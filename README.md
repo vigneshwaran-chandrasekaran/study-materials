@@ -33,6 +33,11 @@
 | ------ | ------ |
 |  [React Array modification][ReRe1] | React array proper way to modification  |
 
+### Good React packages
+| Link | Description |
+| ------ | ------ |
+|  [react-use][rjp1] | react-use  |
+
 ### React Cheatsheet
 | Link | Description |
 | ------ | ------ |
@@ -81,6 +86,9 @@
    
    [jsint12]: <https://github.com/katopz/js-interview>
    [jsint13]: <https://github.com/hopeogbons/TESTDOME>
+   
+   [rjp1]: <https://github.com/streamich/react-use>
+   
    
    
    
