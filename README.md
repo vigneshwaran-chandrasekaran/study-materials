@@ -32,6 +32,8 @@
 | Link | Description |
 | ------ | ------ |
 |  [React Array modification][ReRe1] | React array proper way to modification  |
+|  [React Hooks good examples][ReReH1] | React Hooks good examples  |
+
 
 ### Good React packages
 | Link | Description |
@@ -68,6 +70,8 @@
    [ReRe1]: <https://www.robinwieruch.de/react-state-array-add-update-remove>
    [JsGooLink1]: <https://doesitmutate.xyz/>
    [jsinfo]: <https://javascript.info/>
+   [ReReH1]: <https://usehooks.com/>
+   
    
    
    [jsint0]: <https://github.com/topics/javascript-interview-questions>
