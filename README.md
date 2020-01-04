@@ -22,7 +22,7 @@
 |  [javascript questions][jsint7] | javascript questions  |
 |  [javascript questions][jsint8] | javascript questions  |
 |  [javascript questions][jsint9] | javascript questions  |
-|  [javascript questions][jsint10] | javascript questions  |
+|  [js-coding-samples][jsint10] | js-coding-samples  |
 |  [javascript questions][jsint11] | javascript questions  |
 |  [javascript questions][jsint12] | javascript questions  |
 |  [technical-interview-questions-in-javascript][jsint13] | technical-interview-questions-in-javascript  |
