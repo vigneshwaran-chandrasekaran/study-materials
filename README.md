@@ -25,7 +25,7 @@
 |  [javascript questions][jsint10] | javascript questions  |
 |  [javascript questions][jsint11] | javascript questions  |
 |  [javascript questions][jsint12] | javascript questions  |
-|  [javascript questions][jsint13] | javascript questions  |
+|  [technical-interview-questions-in-javascript][jsint13] | technical-interview-questions-in-javascript  |
 
 
 ### React
