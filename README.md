@@ -13,7 +13,7 @@
 | ------ | ------ |
 |  [javascript questions][jsint0] | javascript questions  |
 |  [javascript questions][jsint1] | javascript questions  |
-|  [javascript questions][jsint2] | javascript questions  |
+|  [123-Essential-JavaScript-Interview-Questions][jsint2] | 123-Essential-JavaScript-Interview-Questions  |
 |  [javascript questions][jsint2a] | javascript questions  |
 |  [javascript questions][jsint3] | javascript questions  |
 |  [javascript questions][jsint4] | javascript questions  |
