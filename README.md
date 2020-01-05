@@ -11,7 +11,7 @@
 ### Javascript interview questions
 | Link | Description |
 | ------ | ------ |
-|  [javascript questions][jsint0] | javascript questions  |
+|  [javascript-interview-questions][jsint0] | javascript-interview-questions  |
 |  [javascript questions][jsint1] | javascript questions  |
 |  [123-Essential-JavaScript-Interview-Questions][jsint2] | 123-Essential-JavaScript-Interview-Questions  |
 |  [javascript questions][jsint2a] | javascript questions  |
