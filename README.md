@@ -33,6 +33,8 @@
 | ------ | ------ |
 |  [React Array modification][ReRe1] | React array proper way to modification  |
 |  [React Hooks good examples][ReReH1] | React Hooks good examples  |
+|  [React Hooks useeffect-vs-uselayouteffect][ReReH2] | React Hooks useeffect vs uselayouteffect  |
+
 
 
 ### Good React packages
@@ -71,6 +73,9 @@
    [JsGooLink1]: <https://doesitmutate.xyz/>
    [jsinfo]: <https://javascript.info/>
    [ReReH1]: <https://usehooks.com/>
+   [ReReH2]: <https://daveceddia.com/useeffect-vs-uselayouteffect/>
+
+   
    
    
    
