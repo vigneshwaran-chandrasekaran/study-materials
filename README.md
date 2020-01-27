@@ -34,7 +34,9 @@
 |  [React Array modification][ReRe1] | React array proper way to modification  |
 |  [React Hooks good examples][ReReH1] | React Hooks good examples  |
 |  [React Hooks useeffect-vs-uselayouteffect][ReReH2] | React Hooks useeffect vs uselayouteffect  |
-
+|  [Can component for authentication][ReReH3]
+|  [React Can component for authentication][ReReH4]
+|  [React Can component example][ReReH5]
 
 
 ### Good React packages
@@ -48,6 +50,7 @@
 |  [React cheatsheet Github][ReCh2] | React cheatsheet Github with Redux  |
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
+
 
 ### General Js concepts
  - var x; is a declaration, var x = 5; is a definition. 
@@ -74,8 +77,12 @@
    [jsinfo]: <https://javascript.info/>
    [ReReH1]: <https://usehooks.com/>
    [ReReH2]: <https://daveceddia.com/useeffect-vs-uselayouteffect/>
+[ReReH3]: <https://github.com/stalniy/casl>
+[ReReH4]: <https://github.com/stalniy/casl/tree/master/packages/casl-react>
+[ReReH5]: <https://github.com/stalniy/casl-react-example>
 
    
+
    
    
    
