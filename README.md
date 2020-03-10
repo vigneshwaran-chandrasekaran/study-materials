@@ -37,6 +37,9 @@
 |  [Can component for authentication][ReReH3]
 |  [React Can component for authentication][ReReH4]
 |  [React Can component example][ReReH5]
+|  [Why React Hooks are introduced][ReRe6] | Youtube video  |
+
+
 
 
 ### Good React packages
@@ -80,6 +83,7 @@
 [ReReH3]: <https://github.com/stalniy/casl>
 [ReReH4]: <https://github.com/stalniy/casl/tree/master/packages/casl-react>
 [ReReH5]: <https://github.com/stalniy/casl-react-example>
+[ReReH6]: <https://www.youtube.com/watch?v=6g6-nJFdb9Y>
 
    
 
