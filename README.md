@@ -40,6 +40,10 @@
 |  [Why React Hooks are introduced][ReReH6] | Youtube video  |
 
 
+### React video tutorials
+| Link | Description |
+| ------ | ------ |
+|  [Why React Hooks are introduced][ReReH6] | Youtube video  |
 
 
 ### Good React packages
