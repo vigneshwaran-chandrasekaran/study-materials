@@ -37,8 +37,6 @@
 |  [Can component for authentication][ReReH3]
 |  [React Can component for authentication][ReReH4]
 |  [React Can component example][ReReH5]
-|  [Why React Hooks are introduced][ReReH6] | Youtube video  |
-
 
 ### React video tutorials
 | Link | Description |
