@@ -42,6 +42,8 @@
 | Link | Description |
 | ------ | ------ |
 |  [Why React Hooks are introduced][ReReH6] | Youtube video  |
+|  [Learning React][ReReH7] | egghead video (Clone element) |
+
 
 
 ### Good React packages
@@ -86,6 +88,8 @@
 [ReReH4]: <https://github.com/stalniy/casl/tree/master/packages/casl-react>
 [ReReH5]: <https://github.com/stalniy/casl-react-example>
 [ReReH6]: <https://www.youtube.com/watch?v=6g6-nJFdb9Y>
+[ReReH7]: <https://egghead.io/courses/start-learning-react>
+
 
    
 
