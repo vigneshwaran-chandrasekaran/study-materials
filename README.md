@@ -37,6 +37,9 @@
 |  [Can component for authentication][ReReH3]
 |  [React Can component for authentication][ReReH4]
 |  [React Can component example][ReReH5]
+|  [React CloneElement][ReReH8]
+
+
 
 ### React video tutorials
 | Link | Description |
@@ -90,8 +93,10 @@
 [ReReH6]: <https://www.youtube.com/watch?v=6g6-nJFdb9Y>
 [ReReH7]: <https://egghead.io/courses/start-learning-react>
 
+[ReReH8]: <https://frontarm.com/james-k-nelson/passing-data-props-children/>
 
    
+
 
    
    
