@@ -61,6 +61,8 @@
 |  [React cheatsheet Github][ReCh2] | React cheatsheet Github with Redux  |
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
+|  [React freecodecamp cheatsheet ][ReStG2] | 
+https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
 
 
 ### General Js concepts
@@ -97,8 +99,7 @@
 
 
 [ReReH8]: <https://frontarm.com/james-k-nelson/passing-data-props-children/>
-
-   
+[ReStG2]: <https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/>
 
 
    
