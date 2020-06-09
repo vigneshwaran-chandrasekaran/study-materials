@@ -61,9 +61,7 @@
 |  [React cheatsheet Github][ReCh2] | React cheatsheet Github with Redux  |
 |  [React cheatsheet][ReCh1] | React cheatsheet  |
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
-|  [React freecodecamp cheatsheet ][ReStG2] | 
-https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/
-
+|  [React freecodecamp cheatsheet ][ReStG2] | freecodecamp cheatsheet |
 
 ### General Js concepts
  - var x; is a declaration, var x = 5; is a definition. 
