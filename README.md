@@ -39,6 +39,7 @@
 |  [React Can component example][ReReH5]
 |  [React CloneElement][ReReH8]
 |  https://www.reactenlightenment.com/
+| https://medium.com/react-ecosystem/react-a-gentle-introduction-407fb59d3514
 
 
 ### React video tutorials
