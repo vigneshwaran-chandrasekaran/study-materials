@@ -38,7 +38,7 @@
 |  [React Can component for authentication][ReReH4]
 |  [React Can component example][ReReH5]
 |  [React CloneElement][ReReH8]
-|  [https://www.reactenlightenment.com/]
+|  https://www.reactenlightenment.com/
 
 
 ### React video tutorials
