@@ -40,7 +40,7 @@
 |  [React CloneElement][ReReH8]
 |  https://www.reactenlightenment.com/
 | https://medium.com/react-ecosystem/react-a-gentle-introduction-407fb59d3514
-| [Redux toolkit basic example][ReReH8] [ReReH9]
+| [Redux toolkit basic example][ReReH9]
 
 
 ### React video tutorials
