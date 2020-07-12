@@ -40,6 +40,7 @@
 |  [React CloneElement][ReReH8]
 |  https://www.reactenlightenment.com/
 | https://medium.com/react-ecosystem/react-a-gentle-introduction-407fb59d3514
+| [Redux toolkit basic example][ReReH8] [ReReH9]
 
 
 ### React video tutorials
@@ -99,6 +100,8 @@
 
 [ReReH8]: <https://frontarm.com/james-k-nelson/passing-data-props-children/>
 [ReStG2]: <https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/>
+[ReReH9]: <https://medium.com/dev-genius/async-api-fetching-with-redux-toolkit-2020-8623ff9da267>
+
 
 
    
