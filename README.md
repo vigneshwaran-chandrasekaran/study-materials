@@ -54,6 +54,7 @@
 | Link | Description |
 | ------ | ------ |
 |  https://www.reactnativeschool.com/ | reactnativeschool  |
+|  https://medium.com/@spencer_carli | spencer carli  |
 
 ### React Native video tutorials
 | Link | Description |
