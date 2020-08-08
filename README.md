@@ -62,6 +62,8 @@
 | Link | Description |
 | ------ | ------ |
 |  https://www.youtube.com/c/HandlebarLabs/videos | HandlebarLabs by reactnativeschool |
+|  https://www.youtube.com/c/wcandillon/videos | William Candillon |
+
 
 ### React Native Tools
 | Link | Description |
