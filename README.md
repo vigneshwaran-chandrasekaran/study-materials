@@ -70,6 +70,10 @@
 | ------ | ------ |
 |  https://appetize.io/ | Native mobile apps in browser  |
 
+### React Native useful packages
+| Link | Description |
+| ------ | ------ |
+|  https://github.com/react-native-training/react-native-fonts | React native fonts  |
 
 ### Good React packages
 | Link | Description |
