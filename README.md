@@ -63,7 +63,7 @@
 | ------ | ------ |
 |  https://www.youtube.com/c/HandlebarLabs/videos | HandlebarLabs by reactnativeschool |
 |  https://www.youtube.com/c/wcandillon/videos | William Candillon |
-|  hhttps://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo | React Native Animation |
+|  [React Native Animation][RN1] |
 
 
 
@@ -133,6 +133,7 @@
 [ReStG2]: <https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/>
 [ReReH9]: <https://medium.com/dev-genius/async-api-fetching-with-redux-toolkit-2020-8623ff9da267>
 
+[RN1]: <https://www.youtube.com/playlist?list=PLYxzS__5yYQmdfEyKDrlG5E0F0u7_iIUo>
 
 
    
