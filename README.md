@@ -96,6 +96,15 @@
 |  [React Airbnb style guide][ReStG1] | React Airbnb style guide  |
 |  [React freecodecamp cheatsheet ][ReStG2] | freecodecamp cheatsheet |
 
+### Design UX Links
+| Link | Description |
+| ------ | ------ |
+|  https://coolors.co/ | 
+|  https://hexy.io/ | 
+|  https://www.canva.com/colors/color-wheel/ | 
+|  https://colors.eva.design/ | 
+|  https://color.adobe.com/explore | 
+
 ### General Js concepts
  - var x; is a declaration, var x = 5; is a definition. 
  Declaration allocates memory and the definition assigns a value to this allocated memory.
