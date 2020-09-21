@@ -41,6 +41,9 @@
 |  https://www.reactenlightenment.com/
 | https://medium.com/react-ecosystem/react-a-gentle-introduction-407fb59d3514
 | [Redux toolkit basic example][ReReH9]
+|  https://reactresources.com/ |
+
+
 
 
 ### React video tutorials
