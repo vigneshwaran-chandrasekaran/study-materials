@@ -1,6 +1,13 @@
 
 # Good to read
 
+
+### Developers
+| Link | Description |
+| ------ | ------ |
+|  [https://free-for.dev/#/] |   
+|  [https://github.com/ripienaar/free-for-dev] |  
+
 ### Javascript
 | Link | Description |
 | ------ | ------ |
