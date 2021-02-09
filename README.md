@@ -19,8 +19,7 @@
 ### Javascript interview questions
 | Link | Description |
 | ------ | ------ |
-
-|  [https://github.com/learning-zone/javascript-interview-questions]   |
+| https://github.com/learning-zone/javascript-interview-questions |
 |  [javascript-interview-questions][jsint0] | javascript-interview-questions  |
 |  [javascript questions][jsint1] | javascript questions  |
 |  [123-Essential-JavaScript-Interview-Questions][jsint2] | 123-Essential-JavaScript-Interview-Questions  |
