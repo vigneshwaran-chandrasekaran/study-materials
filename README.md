@@ -42,7 +42,8 @@
 
 ### Javascript Concepts ###
 *** JavaScript ES5 Object Methods ***
-
+__JavaScript ES5 Object Methods__
+| ------ | ------ |
 |  https://www.javatpoint.com/javascript-object-defineproperty-method | Object defineproperty |
 |  https://www.w3schools.com/js/js_object_es5.asp | Object Methods |
 
