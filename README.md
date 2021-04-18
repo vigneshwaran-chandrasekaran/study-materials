@@ -37,6 +37,16 @@
 |  [technical-interview-questions-in-javascript][jsint13] | technical-interview-questions-in-javascript  |
 
 
+|  https://github.com/tchapi/markdown-cheatsheet | Readme |
+
+
+### Javascript Concepts ###
+*** JavaScript ES5 Object Methods ***
+
+|  https://www.javatpoint.com/javascript-object-defineproperty-method | Object defineproperty |
+|  https://www.w3schools.com/js/js_object_es5.asp | Object Methods |
+
+
 ### React
 | Link | Description |
 | ------ | ------ |
