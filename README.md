@@ -47,7 +47,7 @@ __JavaScript ES5 Object Methods__
 __JavaScript Theory__
 | Link | Description |
 | ------ | ------ |
-|  https://stackoverflow.com/questions/27309412/what-is-the-difference-between-node-js-and-io-js | What is the difference between node.js and io.js? why version jumped from 0.12.x directly to 4.0.0 |
+|  https://stackoverflow.com/questions/27309412/what-is-the-difference-between-node-js-and-io-js | What is the difference between node.js and io.js? why node version jumped from 0.12.x directly to 4.0.0 |
 
 
 
