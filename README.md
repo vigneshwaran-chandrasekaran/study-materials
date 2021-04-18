@@ -44,6 +44,13 @@ __JavaScript ES5 Object Methods__
 |  https://www.javatpoint.com/javascript-object-defineproperty-method | Object defineproperty |
 |  https://www.w3schools.com/js/js_object_es5.asp | Object Methods |
 
+__JavaScript Theory__
+| Link | Description |
+| ------ | ------ |
+|  https://stackoverflow.com/questions/27309412/what-is-the-difference-between-node-js-and-io-js | What is the difference between node.js and io.js? why version jumped from 0.12.x directly to 4.0.0 |
+
+
+
 __JavaScript Class__
 | Link | Description |
 | ------ | ------ |
