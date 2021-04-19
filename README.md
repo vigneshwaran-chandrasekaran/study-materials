@@ -58,6 +58,15 @@ __JavaScript Class__
 
 
 
+__JavaScript Design Pattern__
+| Link | Description |
+| ------ | ------ |
+|  https://www.youtube.com/watch?v=sJ-c3BA-Ypo&ab_channel=WebDevSimplified | Singleton Pattern |
+
+
+
+
+
 ### React
 | Link | Description |
 | ------ | ------ |
