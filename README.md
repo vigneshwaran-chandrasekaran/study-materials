@@ -153,6 +153,7 @@ __JavaScript Design Pattern__
  - The typeof operator in JavaScript returns "function" for functions.
  e.g. function sample() {} 
  typeof sample will be 'function'
+ - Comparing two JavaScript objects will always return false.
 
 
  
