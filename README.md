@@ -49,6 +49,9 @@ __JavaScript Theory__
 | ------ | ------ |
 |  https://stackoverflow.com/questions/27309412/what-is-the-difference-between-node-js-and-io-js | What is the difference between node.js and io.js? why node version jumped from 0.12.x directly to 4.0.0 |
 
+|  https://css-tricks.com/what-is-super-in-javascript/ | Javascript Super |
+
+
 
 
 __JavaScript Class__
