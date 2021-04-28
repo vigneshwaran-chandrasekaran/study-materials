@@ -154,6 +154,13 @@ __JavaScript Design Pattern__
  e.g. function sample() {} 
  typeof sample will be 'function'
  - Comparing two JavaScript objects will always return false.
+ - number ways of creating objects in JS :
+-Object Literals
+-Object.create() 
+-Factory function 
+-Constructor function 
+-Class
+Why ? Because in certain situation one tool is better than the other !
 
 
  
