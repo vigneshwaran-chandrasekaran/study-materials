@@ -64,9 +64,7 @@ __JavaScript Design Pattern__
 | Link | Description |
 | ------ | ------ |
 |  https://www.youtube.com/watch?v=sJ-c3BA-Ypo&ab_channel=WebDevSimplified | Singleton Pattern |
-
-
-
+|  https://youtu.be/23AOrSN-wmI | Constructor Pattern Function |
 
 
 ### React
