@@ -64,7 +64,8 @@ __JavaScript Design Pattern__
 | Link | Description |
 | ------ | ------ |
 |  https://www.youtube.com/watch?v=sJ-c3BA-Ypo&ab_channel=WebDevSimplified | Singleton Pattern |
-|  https://youtu.be/23AOrSN-wmI | Constructor Pattern Function |
+|  https://youtu.be/23AOrSN-wmI | Constructor Function Pattern  |
+| https://youtu.be/jpegXpQpb3o | Factory Function Pattern  |
 
 
 ### React
@@ -154,12 +155,7 @@ __JavaScript Design Pattern__
  e.g. function sample() {} 
  typeof sample will be 'function'
  - Comparing two JavaScript objects will always return false.
- - number ways of creating objects in JS :
--Object Literals
--Object.create() 
--Factory function 
--Constructor function 
--Class
+ - number ways of creating objects in JS : Object Literals, Object.create(), Factory function, Constructor function, Class.
 Why ? Because in certain situation one tool is better than the other !
 
 
