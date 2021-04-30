@@ -67,6 +67,8 @@ __JavaScript Design Pattern__
 |  https://youtu.be/23AOrSN-wmI | Constructor Function Pattern  |
 | https://youtu.be/jpegXpQpb3o | Factory Function Pattern  |
 | https://youtu.be/9cjK1bcLTO8 | Factory Function Pattern in 1 Minute |
+| https://youtu.be/ImwrezYhw4w | Factory Function Pattern  |
+
 
 ### React
 | Link | Description |
