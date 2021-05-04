@@ -125,6 +125,9 @@ __JavaScript Design Pattern__
 | Link | Description |
 | ------ | ------ |
 |  https://github.com/react-native-training/react-native-fonts | React native fonts  |
+|  https://reactnativeelements.com/ | React native element, components library  |
+
+
 
 ### React Native useful links
 | Link | Description |
