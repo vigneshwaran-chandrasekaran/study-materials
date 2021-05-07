@@ -137,6 +137,7 @@ __JavaScript Design Pattern__
 |  https://reactnativemaster.com/  |
 | https://reactnativeexample.com/ |
 | https://reactnative.directory/ |
+| https://aboutreact.com/ |
 
 
 ### Good React packages
