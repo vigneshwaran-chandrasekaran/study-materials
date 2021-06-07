@@ -89,6 +89,10 @@ __JavaScript Design Pattern__
 | [Redux toolkit basic example][ReReH9]
 |  https://reactresources.com/ |
 
+### React Interview Questions
+| Link | Description |
+| ------ | ------ |
+|  https://github.com/sudheerj/reactjs-interview-questions | sudheerj  |
 
 
 
