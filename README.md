@@ -146,12 +146,26 @@ __JavaScript Design Pattern__
 Why ? Because in certain situation one tool is better than the other !
 
 
-### __proto__ vs  prototype
+###  prototype vs ____proto____ 
  - In reality, the only true difference between prototype and __proto__ is that the former is a property of a class constructor, while the latter is a property of a class instance. 
  - newPhone.__proto__ is a reference to iPhone.prototype, and thus holds the exact same contents as well.
  typeof sample will be 'function'
  - Instances have __proto__, classes have prototype.
+ - https://stackoverflow.com/a/51900454/3882241
+ - https://stackoverflow.com/a/33000791/3882241
 
+
+```bash
+function Person(name){
+    this.name = name
+ }; 
+
+var eve = new Person("Eve");
+
+eve.__proto__ == Person.prototype //true
+
+eve.prototype  //undefined
+```
 
 ```bash
 function Person (name, city) {
