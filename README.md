@@ -106,7 +106,6 @@ __JavaScript Design Pattern__
 ### React Advanced topics
 | Link | Description |
 | ------ | ------ |
-
 |  https://www.pluralsight.com/courses/isomorphic-react | isomorphic React |
 |  https://www.smashingmagazine.com/2015/04/react-to-the-future-with-isomorphic-apps/ | isomorphic React |
 |  https://medium.com/capital-one-tech/why-everyone-is-talking-about-isomorphic-universal-javascript-and-why-it-matters-38c07c87905 | isomorphic  |
