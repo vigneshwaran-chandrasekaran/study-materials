@@ -5,7 +5,7 @@
 | Link | Description |
 | ------ | ------ |
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
-
+|  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
 
 
 ### Developers
@@ -242,7 +242,7 @@ console.log(willem.__proto__.age); // now we are directly accessing the prototyp
    [rjp1]: <https://github.com/streamich/react-use>
    
    [FreeTechTamil]: <https://www.youtube.com/c/FreeTechTamil/videos>
-   
+   [awssolutionarch-tamil]: <https://www.youtube.com/watch?v=kDNt9na5j7I&list=PLqz0JGiufLh4L-D6pP4SIK7HtWWRYbkji>
    
    
    
