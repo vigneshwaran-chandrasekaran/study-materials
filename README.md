@@ -1,6 +1,12 @@
 
 # Good to read
 
+### Cloud, AWS Tutorials in Tamil
+| Link | Description |
+| ------ | ------ |
+|  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
+
+
 
 ### Developers
 | Link | Description |
@@ -234,6 +240,8 @@ console.log(willem.__proto__.age); // now we are directly accessing the prototyp
    [jsint13]: <https://github.com/hopeogbons/TESTDOME>
    
    [rjp1]: <https://github.com/streamich/react-use>
+   
+   [FreeTechTamil]: <https://www.youtube.com/c/FreeTechTamil/videos>
    
    
    
