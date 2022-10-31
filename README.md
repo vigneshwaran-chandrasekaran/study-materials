@@ -12,6 +12,8 @@
 | ------ | ------ |
 |  https://skillcertpro.com/ | Skillcertpro |
 |https://github.com/Ernyoke/certified-aws-solutions-architect-associate|Ernyoke|
+|https://github.com/Ernyoke/certified-aws-solutions-architect-professional| Ernyoke|
+|https://github.com/ptcodes/awesome-aws-certifications|ptcodes|
 
 
 
