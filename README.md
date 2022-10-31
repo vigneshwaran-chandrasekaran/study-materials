@@ -7,6 +7,12 @@
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
 |  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
 
+### Cloud, AWS Sample Test
+| Link | Description |
+| ------ | ------ |
+|  https://skillcertpro.com/ | Skillcertpro |
+
+
 
 ### Developers
 | Link | Description |
