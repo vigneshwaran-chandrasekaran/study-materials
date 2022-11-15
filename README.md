@@ -4,6 +4,11 @@
 ### Cloud, AWS Tutorials in Tamil
 | Link | Description |
 | ------ | ------ |
+|  [Enlear Academy][EnlearAcademy] | Enlear Academy  |
+
+### Cloud, AWS Tutorials in Tamil
+| Link | Description |
+| ------ | ------ |
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
 |  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
 
@@ -252,7 +257,7 @@ console.log(willem.__proto__.age); // now we are directly accessing the prototyp
    
    [FreeTechTamil]: <https://www.youtube.com/c/FreeTechTamil/videos>
    [awssolutionarch-tamil]: <https://www.youtube.com/watch?v=kDNt9na5j7I&list=PLqz0JGiufLh4L-D6pP4SIK7HtWWRYbkji>
-   
+   [EnlearAcademy]:<https://www.youtube.com/c/EnlearAcademy/featured>
    
    
 
