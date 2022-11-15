@@ -30,6 +30,7 @@
 ### Developers
 | Link | Description |
 | ------ | ------ |
+|https://publicapis.dev/|Free Public API|
 |  https://free-for.dev/#/ |   
 | https://github.com/ripienaar/free-for-dev |  
 |https://dribbble.com/| Design samples |
