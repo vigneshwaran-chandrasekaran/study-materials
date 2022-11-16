@@ -22,7 +22,7 @@
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
 |  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
 |[Ganapathy Tech Tips][GanapathyTechTipsTamilTheory]|  AWS Certified Cloud Practitioner in தமிழ் - (Theory Podcast)|
-|[Ganapathy Tech Tips][https://www.youtube.com/playlist?list=PL3WUjOOQCEw2I647gQRu5Noh57aD3R-gk]| AWS Certification - (Theory Podcast) |
+|[Ganapathy Tech Tips][sss]| AWS Certification - (Theory Podcast) |
 
 ### Cloud, AWS Sample Test
 | Link | Description |
@@ -275,7 +275,7 @@ console.log(willem.__proto__.age); // now we are directly accessing the prototyp
    [NamrataHShah]:<https://www.youtube.com/c/NamrataHShah>
    [GanapathyTechTipsTamilTheory]:<https://www.youtube.com/playlist?list=PL3WUjOOQCEw1Bf9OD2y25g2sJV3giQSw->
    [GanapathyTechTipsEnglishTheory]:<https://www.youtube.com/playlist?list=PL3WUjOOQCEw2VHZAE2UC5w_teZ1AvhoJV>
-   
+   [sss]:<https://www.youtube.com/playlist?list=PL3WUjOOQCEw2I647gQRu5Noh57aD3R-gk>
 
    
    
