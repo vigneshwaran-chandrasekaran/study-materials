@@ -22,7 +22,7 @@
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
 |  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
 |[Ganapathy Tech Tips][GanapathyTechTipsTamilTheory]|  AWS Certified Cloud Practitioner in தமிழ் - (Theory Podcast)|
-|[Ganapathy Tech Tips]<https://www.youtube.com/playlist?list=PL3WUjOOQCEw2I647gQRu5Noh57aD3R-gk>| AWS Certification - (Theory Podcast) |
+|[Ganapathy Tech Tips][https://www.youtube.com/playlist?list=PL3WUjOOQCEw2I647gQRu5Noh57aD3R-gk]| AWS Certification - (Theory Podcast) |
 
 ### Cloud, AWS Sample Test
 | Link | Description |
