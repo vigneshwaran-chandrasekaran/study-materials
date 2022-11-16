@@ -6,6 +6,8 @@
 | ------ | ------ |
 |  [Enlear Academy][EnlearAcademy] | Enlear Academy  |
 |  [NamrataH Shah][NamrataHShah] | NamrataH Shah  |
+|[Ganapathy Tech Tips][GanapathyTechTipsEnglishTheory] | AWS Certified Cloud Practitioner Crash Course (English) -(Theory Podcast) |
+
 
 
 
@@ -19,7 +21,7 @@
 | ------ | ------ |
 |  [Free Tech Tamil][FreeTechTamil] | Cloud, AWS  |
 |  [AWS Solution Architect Associate][awssolutionarch-tamil] | AWS Solution Architect Associate  |
-|[Ganapathy Tech Tips][GanapathyTechTipsTamilTheory]|  - AWS Certified Cloud Practitioner in தமிழ் - (Theory Podcast)|
+|[Ganapathy Tech Tips][GanapathyTechTipsTamilTheory]|  AWS Certified Cloud Practitioner in தமிழ் - (Theory Podcast)|
 
 ### Cloud, AWS Sample Test
 | Link | Description |
@@ -271,7 +273,7 @@ console.log(willem.__proto__.age); // now we are directly accessing the prototyp
    [hnasr]:<https://www.youtube.com/@hnasr>
    [NamrataHShah]:<https://www.youtube.com/c/NamrataHShah>
    [GanapathyTechTipsTamilTheory]:<https://www.youtube.com/playlist?list=PL3WUjOOQCEw1Bf9OD2y25g2sJV3giQSw->
-   
+   [GanapathyTechTipsEnglishTheory]:<https://www.youtube.com/playlist?list=PL3WUjOOQCEw2VHZAE2UC5w_teZ1AvhoJV>
    
 
    
